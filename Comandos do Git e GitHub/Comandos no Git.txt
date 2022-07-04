@@ -5,3 +5,4 @@ Visualizar se tudo está no GitHub: GIT STATUS
 Add uma pasta no GitHub: GIT ADD . ou GIT ADD -A
 Enviar um arquivo para o GitHub: GIT COMMIT -M "DESCRIÇÃO DE PREFERÊNCIA"
 Configurar o Git para Online: GIT CONFIG --GLOBAL USER.NAME "" / GIT CONFIG --GLOBAL USER.EMAIL ""
+Subir um arquivo para o GitHub: GIT PUSH 
